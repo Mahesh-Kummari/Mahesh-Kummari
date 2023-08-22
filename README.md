@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahesh-Kummari
-- 👀 I’m interested in Website development 
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Sql, Bootstrap, ReactJs, NodeJs
 - 💞️ I’m looking to collaborate on ... Website development, software, converting ideas to product 
 - 📫 How to reach me email:maheshkummari7111@gmail.com or Phone: 9949767111
