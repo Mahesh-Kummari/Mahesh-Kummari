@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ** @Mahesh-Kummari **
+- 👋 Hi, I’m **@Mahesh-Kummari**
 - 👀 I’m interested in Web development and Software development
 - 🌱 I’m proficient in  HTML, CSS, JavaScript, Sql, Bootstrap, ReactJs, NodeJs, ExpressJs TailwindCSS, MongoDB
 - 💞️ I’m looking to collaborate on ... Website development, software, converting ideas to product 
-- 📫 How to reach me [Email:maheshkummari7111@gmail.com](maheshkummari7111@gmail.com) or Phone: 9949767111
+- 📫 How to reach me Email [maheshkummari7111@gmail.com](mailto:maheshkummari7111@gmail.com) or  Phone: 9949767111
 
 
 <!---
